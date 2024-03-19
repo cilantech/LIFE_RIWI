@@ -1,2 +1,2 @@
-# automotriz_RIWI
+# LIFE_RIWI
 landing page 
